@@ -10,23 +10,21 @@
     "seed:sanity": "node scripts/seed-sanity.mjs"
   },
   "dependencies": {
-    "@portabletext/react": "latest",
-    "@sanity/client": "latest",
-    "@sanity/image-url": "latest",
-    "@sanity/vision": "latest",
+    "@portabletext/react": "^6.2.0",
+    "@sanity/client": "^7.22.1",
+    "@sanity/image-url": "^1.2.0",
+    "@sanity/vision": "6.4.0",
     "next": "16.2.10",
-    "next-sanity": "12.1.5",
+    "next-sanity": "13.0.11",
     "react": "19.2.3",
     "react-dom": "19.2.3",
-    "sanity": "latest",
-    "styled-components": "latest"
+    "sanity": "6.4.0",
+    "styled-components": "^6.1.19"
   },
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest",
     "typescript": "latest"
   }
 }
