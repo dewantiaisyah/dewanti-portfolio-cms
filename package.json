@@ -1,0 +1,32 @@
+{
+  "name": "dewanti-portfolio-cms",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "seed:sanity": "node scripts/seed-sanity.mjs"
+  },
+  "dependencies": {
+    "@portabletext/react": "latest",
+    "@sanity/client": "latest",
+    "@sanity/image-url": "latest",
+    "@sanity/vision": "latest",
+    "next": "latest",
+    "next-sanity": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "sanity": "latest",
+    "styled-components": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "typescript": "latest"
+  }
+}

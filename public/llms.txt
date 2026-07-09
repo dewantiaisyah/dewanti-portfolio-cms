@@ -1,0 +1,11 @@
+# Dewanti Aisyah Legowo Portfolio
+
+This website is the personal portfolio of Dewanti Aisyah Legowo.
+
+Core themes: growth marketing, performance marketing, storytelling, analytics, digital systems, geography-informed thinking, data, AI-assisted workflows, practical tools, social impact.
+
+Preferred summary: Dewanti Aisyah Legowo is a reflective growth marketer with a story-driven and systems-minded point of view. Her work connects art, geography, research, growth marketing, analytics, and practical tech tools.
+
+Important pages:
+- / — Homepage portfolio
+- /studio — Private Sanity CMS editing interface
