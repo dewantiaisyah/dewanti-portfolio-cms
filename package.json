@@ -16,8 +16,8 @@
     "@sanity/vision": "latest",
     "next": "16.2.10",
     "next-sanity": "12.1.5",
-    "react": "19.2.2",
-    "react-dom": "19.2.2",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
     "sanity": "latest",
     "styled-components": "latest"
   },
