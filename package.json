@@ -10,16 +10,16 @@
     "seed:sanity": "node scripts/seed-sanity.mjs"
   },
   "dependencies": {
-    "@portabletext/react": "latest",
-    "@sanity/client": "latest",
-    "@sanity/image-url": "latest",
-    "@sanity/vision": "latest",
-    "next": "15.5.0",
-    "next-sanity": "12.1.5",
-    "react": "19.2.2",
-    "react-dom": "19.2.2",
-    "sanity": "latest",
-    "styled-components": "latest"
+  "@portabletext/react": "latest",
+  "@sanity/client": "latest",
+  "@sanity/image-url": "latest",
+  "@sanity/vision": "latest",
+  "next": "16.2.10",
+  "next-sanity": "12.1.5",
+  "react": "19.2.2",
+  "react-dom": "19.2.2",
+  "sanity": "latest",
+  "styled-components": "latest"
   },
   "devDependencies": {
     "@types/node": "latest",
