@@ -9,6 +9,9 @@ export default defineConfig({
   title: 'Dewanti Portfolio CMS',
   projectId: process.env.NEXT_PUBLIC_SANITY_PROJECT_ID || '',
   dataset: process.env.NEXT_PUBLIC_SANITY_DATASET || 'production',
+
+  basePath: '/studio',
+
   plugins: [
     structureTool({structure: deskStructure}),
     visionTool()
